@@ -1,10 +1,52 @@
 fileFormatVersion: 2
-guid: 0edce114eb308aa4ca286542068ac1d6
+guid: fedc778877856634e93e7a387789c1bb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4593315296028983648
-    second: UiFlipixcubeMainMenu_0
+      213: -4961433663837499631
+    second: MainMenuSprite1_0
+  - first:
+      213: -8118441197307671981
+    second: MainMenuSprite1_1
+  - first:
+      213: -1511108439869122271
+    second: MainMenuSprite1_2
+  - first:
+      213: -961808125069940261
+    second: MainMenuSprite1_3
+  - first:
+      213: -3764837746992120622
+    second: MainMenuSprite1_4
+  - first:
+      213: -735978564662496487
+    second: MainMenuSprite1_5
+  - first:
+      213: -753348735814654275
+    second: MainMenuSprite1_6
+  - first:
+      213: -4331198703371603418
+    second: MainMenuSprite1_7
+  - first:
+      213: -8116473186476578662
+    second: MainMenuSprite1_8
+  - first:
+      213: -4985164263037546872
+    second: MainMenuSprite1_9
+  - first:
+      213: 2935275391643261525
+    second: MainMenuSprite1_10
+  - first:
+      213: 4222557350314172108
+    second: MainMenuSprite1_11
+  - first:
+      213: 7895101419636137976
+    second: MainMenuSprite1_12
+  - first:
+      213: -4146366034308182179
+    second: MainMenuSprite1_13
+  - first:
+      213: -4324482757356415144
+    second: MainMenuSprite1_14
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +155,35 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UiFlipixcubeMainMenu_0
+      name: MainMenuSprite1_0
       rect:
         serializedVersion: 2
-        x: 444
-        y: 86
-        width: 785
-        height: 755
+        x: 21
+        y: 1468
+        width: 636
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f0d4a9e52752bb0800000000000000
+      internalID: -4961433663837499631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuSprite1_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1206
+        width: 640
+        height: 171
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,74 +192,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0aef2de13144140c0800000000000000
-      internalID: -4593315296028983648
+      spriteID: 55a97dcba613cb820800000000000000
+      internalID: 2935275391643261525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UiFlipixcubeMainMenu_1
+      name: MainMenuSprite1_11
       rect:
         serializedVersion: 2
-        x: 1242
-        y: 82
-        width: 818
-        height: 765
+        x: 50
+        y: 386
+        width: 309
+        height: 280
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c70327580fffd784a9350692e4f285c6
-      internalID: 1758444624
+      spriteID: cced03db989899a30800000000000000
+      internalID: 4222557350314172108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UiFlipixcubeMainMenu_2
+      name: MainMenuSprite1_12
       rect:
         serializedVersion: 2
-        x: 36
-        y: 899
-        width: 1357
-        height: 272
+        x: 608
+        y: 384
+        width: 309
+        height: 280
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 906ee4f47cca1cb46a39159005aead61
-      internalID: -737683092
+      spriteID: 8ff181f39e8019d60800000000000000
+      internalID: 7895101419636137976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UiFlipixcubeMainMenu_3
+      name: MainMenuSprite1_13
       rect:
         serializedVersion: 2
-        x: 1380
-        y: 1199
-        width: 315
-        height: 308
+        x: 50
+        y: 83
+        width: 309
+        height: 280
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5017e6c62d74ca341a39f2a41a4d63ce
-      internalID: -290397569
+      spriteID: d5fc0586f062576c0800000000000000
+      internalID: -4146366034308182179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuSprite1_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 88
+        width: 309
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857187228d95cf3c0800000000000000
+      internalID: -4324482757356415144
       vertices: []
       indices: 
       edges: []
@@ -204,7 +290,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5725641a45a75594ba5e78cb884903b9
+    spriteID: 4bbced9c06363e444b6552a6272d7c16
     internalID: 0
     vertices: []
     indices: 
@@ -214,10 +300,21 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      UiFlipixcubeMainMenu_0: -4593315296028983648
-      UiFlipixcubeMainMenu_1: 1758444624
-      UiFlipixcubeMainMenu_2: -737683092
-      UiFlipixcubeMainMenu_3: -290397569
+      MainMenuSprite1_0: -4961433663837499631
+      MainMenuSprite1_1: -8118441197307671981
+      MainMenuSprite1_10: 2935275391643261525
+      MainMenuSprite1_11: 4222557350314172108
+      MainMenuSprite1_12: 7895101419636137976
+      MainMenuSprite1_13: -4146366034308182179
+      MainMenuSprite1_14: -4324482757356415144
+      MainMenuSprite1_2: -1511108439869122271
+      MainMenuSprite1_3: -961808125069940261
+      MainMenuSprite1_4: -3764837746992120622
+      MainMenuSprite1_5: -735978564662496487
+      MainMenuSprite1_6: -753348735814654275
+      MainMenuSprite1_7: -4331198703371603418
+      MainMenuSprite1_8: -8116473186476578662
+      MainMenuSprite1_9: -4985164263037546872
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
